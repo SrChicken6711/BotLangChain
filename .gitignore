@@ -3,7 +3,5 @@
 __pycache__/
 .mypy_cache
 .vscode/
-test.py
-tests/
 __init__.py
 database.db
